@@ -1,0 +1,7 @@
+# Entorno de Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Datos
+data/
